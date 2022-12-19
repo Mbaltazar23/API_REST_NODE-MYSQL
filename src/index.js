@@ -4,4 +4,4 @@ import { PORT } from "./config.js";
 
 app.listen(PORT);
 
-console.log("Port is now in", PORT);
+console.log("Port is now in the port", PORT);
